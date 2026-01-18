@@ -2,7 +2,7 @@
 
 TaskFlow is a modern, responsive Task Management application built to help users organize their daily activities efficiently. It features secure authentication and real-time task updates.
 
-![dashboard Screenshot](./screenshots/dashboard.png)
+![Dashboard Preview](./screenshots/dashboard.png)
 
 ## ✨ Features
 
@@ -27,9 +27,9 @@ TaskFlow is a modern, responsive Task Management application built to help users
 
 ## 📸 Screenshots
 
-| Login Page | Dashboard |
+| Page d'Inscription | Dashboard |
 |:---:|:---:|
-| ![inscription](./screenshots/inscription.png) | ![dashboard](./screenshots/dashboard.png) |
+| ![Inscription](./screenshots/inscription.png) | ![Dashboard](./screenshots/dashboard.png) |
 
 ## 🚀 How to Run Locally
 
@@ -38,6 +38,7 @@ Follow these steps to get the project running on your machine.
 ### 1. Clone the repository
 ```bash
 git clone [https://github.com/mouadelamri/TaskFlow-FullStack.git](https://github.com/mouadelamri/TaskFlow-FullStack.git)
+cd TaskFlow-FullStack
 cd TaskFlow-FullStack
 2. Setup Backend (Server)
 cd server
