@@ -2,7 +2,7 @@
 
 TaskFlow is a modern, responsive Task Management application built to help users organize their daily activities efficiently. It features secure authentication and real-time task updates.
 
-![Dashboard Screenshot](./screenshots/dashboard.png)
+![dashboard Screenshot](./screenshots/dashboard.png)
 
 ## ✨ Features
 
@@ -29,7 +29,7 @@ TaskFlow is a modern, responsive Task Management application built to help users
 
 | Login Page | Dashboard |
 |:---:|:---:|
-| ![Login](./screenshots/login.png) | ![Dashboard](./screenshots/dashboard.png) |
+| ![inscription](./screenshots/inscription.png) | ![dashboard](./screenshots/dashboard.png) |
 
 ## 🚀 How to Run Locally
 
